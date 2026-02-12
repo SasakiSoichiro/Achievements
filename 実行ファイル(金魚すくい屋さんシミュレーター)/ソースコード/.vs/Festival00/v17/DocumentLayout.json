@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\\u4F50\u3005\u6728\u594F\u4E00\u90CE(\u5C02\u9580\u5B66\u6821\u5317\u6D77\u9053\u30B5\u30A4\u30D0\u30FC\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u30BA\u5927\u5B66\u6821_\u30B2\u30FC\u30E0\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u5B66\u79D1)\\\u91D1\u9B5A\u3059\u304F\u3044\u5C4B\u3055\u3093\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC\\\u5B9F\u884C\u30D5\u30A1\u30A4\u30EB(\u91D1\u9B5A\u3059\u304F\u3044\u5C4B\u3055\u3093\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC)\\\u30BD\u30FC\u30B9\u30B3\u30FC\u30C9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F838F68-B7C6-460C-9F16-1A0575B4DD59}|Festival00.vcxproj|C:\\Users\\student\\Desktop\\\u4F50\u3005\u6728\u594F\u4E00\u90CE(\u5C02\u9580\u5B66\u6821\u5317\u6D77\u9053\u30B5\u30A4\u30D0\u30FC\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u30BA\u5927\u5B66\u6821_\u30B2\u30FC\u30E0\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u5B66\u79D1)\\\u91D1\u9B5A\u3059\u304F\u3044\u5C4B\u3055\u3093\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC\\\u5B9F\u884C\u30D5\u30A1\u30A4\u30EB(\u91D1\u9B5A\u3059\u304F\u3044\u5C4B\u3055\u3093\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC)\\\u30BD\u30FC\u30B9\u30B3\u30FC\u30C9\\angryEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F838F68-B7C6-460C-9F16-1A0575B4DD59}|Festival00.vcxproj|solutionrelative:angryEffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "angryEffect.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u4F50\u3005\u6728\u594F\u4E00\u90CE(\u5C02\u9580\u5B66\u6821\u5317\u6D77\u9053\u30B5\u30A4\u30D0\u30FC\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u30BA\u5927\u5B66\u6821_\u30B2\u30FC\u30E0\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u5B66\u79D1)\\\u91D1\u9B5A\u3059\u304F\u3044\u5C4B\u3055\u3093\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC\\\u5B9F\u884C\u30D5\u30A1\u30A4\u30EB(\u91D1\u9B5A\u3059\u304F\u3044\u5C4B\u3055\u3093\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC)\\\u30BD\u30FC\u30B9\u30B3\u30FC\u30C9\\angryEffect.cpp",
+              "RelativeDocumentMoniker": "angryEffect.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u4F50\u3005\u6728\u594F\u4E00\u90CE(\u5C02\u9580\u5B66\u6821\u5317\u6D77\u9053\u30B5\u30A4\u30D0\u30FC\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u30BA\u5927\u5B66\u6821_\u30B2\u30FC\u30E0\u30AF\u30EA\u30A8\u30A4\u30BF\u30FC\u5B66\u79D1)\\\u91D1\u9B5A\u3059\u304F\u3044\u5C4B\u3055\u3093\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC\\\u5B9F\u884C\u30D5\u30A1\u30A4\u30EB(\u91D1\u9B5A\u3059\u304F\u3044\u5C4B\u3055\u3093\u30B7\u30DF\u30E5\u30EC\u30FC\u30BF\u30FC)\\\u30BD\u30FC\u30B9\u30B3\u30FC\u30C9\\angryEffect.cpp*",
+              "RelativeToolTip": "angryEffect.cpp*",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAH0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-28T11:08:56.812Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
